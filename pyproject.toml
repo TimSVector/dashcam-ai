@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roadcam-ai"
+version = "0.1.0"
+description = "Modular CPU dash-camera prototype"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "opencv-python>=4.10,<5", "torch>=2.5,<3", "torchvision>=0.20,<1"]
+
+[project.optional-dependencies]
+ocr = ["pytesseract>=0.3.13,<0.4"]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+roadcam = "roadcam.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["roadcam*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/roadcam_core_tests.dir/tests/roadcam_core_tests.cpp.o -o roadcam_core_tests  -Wl,-rpath,/home/tms/demos/rpi/roadcam-ai/clean/native libroadcam_core.so.0.1.0 

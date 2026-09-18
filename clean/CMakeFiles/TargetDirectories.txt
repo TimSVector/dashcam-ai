@@ -1,0 +1,8 @@
+/home/tms/demos/rpi/roadcam-ai/clean/CMakeFiles/test.dir
+/home/tms/demos/rpi/roadcam-ai/clean/CMakeFiles/edit_cache.dir
+/home/tms/demos/rpi/roadcam-ai/clean/CMakeFiles/rebuild_cache.dir
+/home/tms/demos/rpi/roadcam-ai/clean/native/CMakeFiles/roadcam_core.dir
+/home/tms/demos/rpi/roadcam-ai/clean/native/CMakeFiles/roadcam_core_tests.dir
+/home/tms/demos/rpi/roadcam-ai/clean/native/CMakeFiles/test.dir
+/home/tms/demos/rpi/roadcam-ai/clean/native/CMakeFiles/edit_cache.dir
+/home/tms/demos/rpi/roadcam-ai/clean/native/CMakeFiles/rebuild_cache.dir

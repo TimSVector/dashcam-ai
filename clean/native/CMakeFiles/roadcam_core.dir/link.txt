@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libroadcam_core.so.0 -o libroadcam_core.so.0.1.0 CMakeFiles/roadcam_core.dir/src/roadcam_core.cpp.o 
